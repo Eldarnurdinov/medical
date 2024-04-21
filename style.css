@@ -1,0 +1,358 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.container{
+    width: 1440px;
+    margin: 0 auto;
+    
+}
+.logo{
+    font-size: 24px;
+    text-decoration: none;
+    color: black;
+    
+}
+span{
+    color: blue;
+}
+.knopka{
+    width: 97px;
+height: 44px;
+border-radius: 10px;
+background: blue;
+color: aliceblue;
+
+}
+a{
+    text-decoration: none;
+    font-size: 14px;
+    color: black;
+    margin: 10px;
+}
+.shapka2{
+    width: 1240px;
+    height: 44px;
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.start2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+h1{
+    font-family: Manrope;
+    font-size: 54px;
+    font-weight: 700;
+    line-height: 70px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    
+}
+p{
+    font-family: Manrope;
+font-size: 14px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0.03em;
+text-align: left;
+color: grey;
+  
+}
+.knopka2{
+    width: 162px;
+    height: 52px;
+    top: 436px;
+    left: 100px;
+    border-radius: 10px;
+    background: blue;
+    color: aliceblue;
+      
+}
+.doctor{
+    width: 537px;
+height: 590px;
+top: 90px;
+padding: 50px;
+
+}
+
+.block2{
+    width: 1238px;
+height: 350px;
+
+
+
+
+}
+.text1{
+color:#4D77FF;
+display: flex;
+justify-content: space-around;
+align-items: center;
+}
+
+.text2{
+    font-size: 32px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center; 
+}
+.ww{
+    width: 287px;
+height: 226px;
+border-radius: 10px;
+box-shadow: 0px 10px 40px 0px black;
+text-align: center;
+
+
+}
+.p1{
+    text-align: center;
+    font-family: Manrope;
+font-size: 12px;
+font-weight: 400;
+line-height: 16px;
+letter-spacing: 0.03em;
+color: grey;
+
+}
+.line{
+    width: 287px;
+height: 3px;
+top: 923px;
+left: 100px;
+ background: #4D77FF;
+}
+.img1{
+    margin-right: 150px;
+}
+
+.w{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+h3{
+    font-family: Manrope;
+font-size: 14px;
+font-weight: 700;
+line-height: 28px;
+letter-spacing: 0.03em;
+}
+  .text3{
+    font-family: Manrope;
+font-size: 14px;
+font-weight: 700;
+line-height: 20px;
+letter-spacing: 0.03em;
+text-align: left;
+color:  #4D77FF;
+} 
+.qwer{
+width: 236px;
+height: 52px;
+padding: 16px, 36px, 16px, 36px;
+border-radius: 10px;
+background: blue;
+color: aliceblue;
+
+} 
+
+.text4{
+    font-family: Manrope;
+font-size: 32px;
+font-weight: 700;
+line-height: 40px;
+letter-spacing: 0.015em;
+text-align: left;
+}
+.qq{
+display: flex;
+justify-content: flex-start;
+align-items: center;
+
+
+}
+h4{
+    padding-left: 10px;
+}
+#nur{
+    margin-right: 150px;
+}
+.nur2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-right: 500px;
+    
+
+
+
+}
+.www{
+    margin-top: 250px;
+}
+
+.www2{
+    width: 202px;
+height: 256px;
+border-radius: 10px;
+box-shadow: -4px -10px 50px 0px #1212121A;
+position: absolute;
+ z-index: 1;
+ text-align: center;
+ left: 750px;
+ top: 1550px;
+
+.a1{
+    text-align: center;
+}
+
+.s1{
+    width: 142px;
+height: 32px;
+padding: 8px;
+border-radius: 10px;
+background: #EDF1FF;
+font-family: Manrope;
+font-size: 12px;
+font-weight: 500;
+line-height: 16px;
+letter-spacing: 0.03em;
+text-align: center;
+color: #4D77FF;
+}
+
+ 
+}
+.doctor2{
+    position: absolute;
+    z-index: 2;
+    left: 850px;
+    top: 1500px;
+    
+}
+#apple{
+    margin-right: 200px;
+}
+.apple2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.number{
+    font-family: Manrope;
+font-size: 32px;
+font-weight: 700;
+line-height: 40px;
+letter-spacing: 0.03em;
+text-align: center;
+
+}
+#maus{
+    width: 1340px;
+height: 611px;
+top: 3143px;
+left: 1065px;
+margin-right: 150px;
+
+}
+.line2{
+    width: 420px;
+height: 360px;
+top: 3394px;
+margin-left: 241px;
+border: 2px;
+background: #fafbfc;
+border: 3px solid #4D77FF
+
+}
+.telephon{
+display: flex;
+justify-content: space-around;
+align-items: center;
+} 
+.надпись{
+width: 533px;
+height: 160px;
+top: 3364px;
+left: 1793px;
+font-family: Manrope;
+font-size: 25px;
+font-weight: 400;
+line-height: 40px;
+letter-spacing: 0.03em;
+text-align: left;
+}
+.boy{
+position: absolute;
+width: 430px;
+height: 360px;
+left: 200px;
+top: 3500px;
+}
+.p2{
+color: black;
+font-family: Manrope;
+font-size: 14px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0.015em;
+text-align: left;
+}
+
+#end{
+margin-right: 200px;
+width: 1,226px;
+height: 125px;
+top: 3946px;
+left: 100px;
+gap: 150px;
+
+}
+ 
+.end2{
+display: flex;
+justify-content: space-around;
+align-items: center;
+
+}
+
+.ttt{
+width: 647px;
+height: 124px;
+display: flex;
+justify-content: space-around;
+align-items: center;
+
+
+}
+.d1{
+font-family: Manrope;
+font-size: 20px;
+font-weight: 700;
+line-height: 28px;
+letter-spacing: 0.03em;
+text-align: left;
+color: black;
+}
+.f1{
+    width: 112px;
+height: 80px;
+gap: 10px;
+}
+.icons{
+   margin-top: -35px;
+}
+
+
+
+ 
+ 
+ 
